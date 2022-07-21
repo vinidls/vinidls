@@ -3,7 +3,7 @@
 - 👨‍💻 Atualmente trabalho como Técnico em Informática 
 - 🤓 Estudando 𝗛𝗧𝗠𝗟,𝗖𝗦𝗦, 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁 𝗲 𝗣𝘆𝘁𝗵𝗼𝗻
 - 📚 Cursando Analise e Desenvolvimento de Sistemas no 𝗜𝗙𝗕𝗔 
-- 🎆 Tenho 21 Anos 
+- 🎆 Tenho 22 Anos 
 <div align="center">
   <a href="https://github.com/vinidls">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinidls&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
